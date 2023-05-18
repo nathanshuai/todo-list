@@ -1,6 +1,6 @@
 ### Todo list
 
-# Click [here]() to make a Todo list.
+# Click [here](https://nathanshuai.github.io/todo-list/) to make a Todo list.
 
 <br />
 
